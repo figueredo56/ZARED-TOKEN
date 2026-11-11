@@ -1,3 +1,4 @@
+![ZARED Token SVG Architecture](https://raw.githubusercontent.com/figueredo56/ZARED-TOKEN/1e98cebb9f897561a0fdb072da3660c439a68e85/CC_20261110_224258.svg)
 # ZARED Protocol (ZAARD INNOVATION)
 
 ![ZARED Official Logo](https://photos.pinksale.finance/file/pinksale-logo-upload/1790288769685-7d9a89bc13043a812c4889cb55ac4a54.png)
