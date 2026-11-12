@@ -63,13 +63,6 @@
 
 ---
 
-## 📄 Enlaces e Interfaces Oficiales
-
-* 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
-* 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
-* 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
-* 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
-
 ## 📄 License & Attribution
 
 Developed by **Panga** (Lead Developer / Founder) under the **ZAARD INNOVATION** project umbrella and the **XENOCRYPT** label.
