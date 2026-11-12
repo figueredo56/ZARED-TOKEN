@@ -15,6 +15,17 @@
 
 ---
 
+## 🛡️ Perfil de ZAARD_ALX
+
+### 1. Arquitecto Fundador y Autoridad Criptográfica — **ZAARD XENOCRYPT**
+<img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794442537930-136ad239342b403669d61407099f23ed.png" alt="ZAARD XENOCRYPT" width="140" align="left" style="margin-right: 15px;" />
+
+**Rango:** *Comandante Supremo & Arquitecto del Protocolo*  
+**ZAARD XENOCRYPT** representa el núcleo tecnológico, la firma de ingeniería criptográfica y la autoridad maestra detrás de todo el ecosistema. Como sello de innovación y desarrollo Web3, garantiza que cada contrato inteligente sea diseñado bajo estándares inmutables, auditoría rigurosa y protección absoluta contra vulnerabilidades, estableciendo la visión estratégica y la gobernanza central de $ZYM.
+<br clear="left"/>
+
+---
+
 ## 🔗 On-Chain Identifiers & Verified Links
 
 * **Contract Address:** `0x073c12c7072676c9a1afd83c07e470aa7d81aeb3`
@@ -46,14 +57,48 @@
 | :--- | :--- |
 | **Network Name** | BNB Smart Chain |
 | **RPC URL** | `https://bsc-dataseed.binance.org/` |
-| **Chain ID** | `56` |
+| **Chain ID** | `0x073c12c7072676c9a1afd83c07e470aa7d81aeb3` |
 | **Symbol** | `BNB` |
 | **Block Explorer** | `https://bscscan.com` |
 
 ---
+
+## 📄 Enlaces e Interfaces Oficiales
+
+* 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
+* 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
+* 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
+* 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
 
 ## 📄 License & Attribution
 
 Developed by **Panga** (Lead Developer / Founder) under the **ZAARD INNOVATION** project umbrella and the **XENOCRYPT** label.
 
 *All rights reserved. Code verified and published on BNB Smart Chain.*
+
+## 📄 Enlaces e Interfaces Oficiales
+
+* 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
+* 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
+* 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
+* 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
+
+---
+
+## 👤 Equipo Core & Desarrollo
+
+* **Lead Blockchain Architect & Founder:** Panga
+* **Firma de Ingeniería Criptográfica:** XENOCRYPT
+* **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+
+---
+
+> **⚠️ Descargo de Responsabilidad (Disclaimer):**  
+> La interacción con contratos inteligentes, tokens criptográficos y protocolos DeFi conlleva riesgos inherentes debido a la volatilidad del mercado. Este documento tiene fines estrictamente técnicos e informativos. Realice siempre su propia investigación (*DYOR*) antes de interactuar con cualquier activo digital o piscina de liquidez.
+
+<div align="center">
+
+  <p><b>Diseñado y Desarrollado con Alta Ingeniería por XENOCRYPT para ZAARD INNOVATION</b></p>
+  <p>© 2026 - Todos los derechos reservados</p>
+
+</div>
