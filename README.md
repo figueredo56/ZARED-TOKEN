@@ -31,9 +31,9 @@
 * **Contract Address:** `0x073c12c7072676c9a1afd83c07e470aa7d81aeb3`
 * **Network:** BNB Smart Chain (Chain ID: `56`)
 * **Standard:** BEP-20 / ERC-20 Compatible
-* **Explorer Verification:** [View Contract on BscScan](https://bscscan.com/token/0x073c12c7072676c9a1afd83c07e470aa7d81aeb3)
-* **Security Verification:** [Check Contract Audit on Token Sniffer](https://tokensniffer.com/token/bsc/0x073c12c7072676c9a1afd83c07e470aa7d81aeb3)
-* **Web3 Ecosystem Access:** [Trade / View on Binance Web3 Wallet](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x073c12c7072676c9a1afd83c07e470aa7d81aeb3&binanceChainId=56&chain=bsc)
+* **Explorer Verification:** [View Contract on BscScan](https://bscscan.com/token/0xfc2aca08fc64e51793c32e9088fc43a57d39690e)
+* **Security Verification:** [Check Contract Audit on Token Sniffer](https://tokensniffer.com/token/bsc/0xfc2aca08fc64e51793c32e9088fc43a57d39690e)
+* **Web3 Ecosystem Access:** [Trade / View on Binance Web3 Wallet](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0xfc2aca08fc64e51793c32e9088fc43a57d39690e&binanceChainId=56&chain=bsc)
 
 * ## ⚙️ Technical Architecture & Ecosystem Integration
 
@@ -57,7 +57,7 @@
 | :--- | :--- |
 | **Network Name** | BNB Smart Chain |
 | **RPC URL** | `https://bsc-dataseed.binance.org/` |
-| **Chain ID** | `0x073c12c7072676c9a1afd83c07e470aa7d81aeb3` |
+| **Chain ID** | `0xfc2aca08fc64e51793c32e9088fc43a57d39690e` |
 | **Symbol** | `BNB` |
 | **Block Explorer** | `https://bscscan.com` |
 
